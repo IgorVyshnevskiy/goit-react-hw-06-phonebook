@@ -16,7 +16,7 @@ export const Button = styled.button`
   border-color: transparent;
   outline: none;
   border-radius: 3px;
-  background-color: #2e343a;
+  background-color: #343536;
   color: #ffffff;
   &:hover,
   &:focus {
